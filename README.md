@@ -1,1 +1,1 @@
-# AutoDrop-1-0
+# AutoDrop-1.0
